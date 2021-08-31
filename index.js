@@ -294,7 +294,7 @@ window.requestAnimFrame = function () {
     }
   
     var ifrm = document.createElement("iframe");
-    ifrm.setAttribute("src", "8833309961668083126.mp4");
+    ifrm.setAttribute("src", "8833309961668083126.mp4?controls=0&loop=1&autoplay=1");
     //ifrm.style.width = `${w}px`;
     //ifrm.style.height = `${h}px`;
     ifrm.style.border = 'none';
